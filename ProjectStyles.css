@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn&family=IM+Fell+Great+Primer+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Jacques+Francois&family=Jua&display=swap');
+.MainTitleText{
+    background-color:rgba(10, 176, 106, 14%);
+    font-size: 38px;
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 500px;
+}
+.ShoppingCartImage{
+    position: relative;
+    left: 1290px;
+    top: -80px;
+}
+.ShoppingCartText{
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-size: 15px;
+    position:relative;
+    left: 1290px;
+    top: -100px;
+}
+.AdvertismentText{
+    float: left;
+    font-family: 'Courgette', cursive;
+    font-size: 38px;
+    padding-left: 15px;
+    padding-right: 25px;
+    text-align: center;
+
+}
+.Advertisment{
+    background-color: #d9d9d9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 860px;
+    margin-left: 250px;
+    margin-top: -103px;
+    border-radius: 10px;
+}
+.ProductBorder{
+    border: 2px solid black;
+    width: 1364px;
+    height: 657px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.AdvertismentImage{
+    border-radius: 10%; 
+}
+.Product{
+    background-color: #d9d9d9;
+    width: 240px;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 19px;
+    margin-top: 12px;
+    float: left;
+}
+.ProductImage{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: -10px;   
+}
+.ProductText{
+    font-size: 17px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    text-align: center; 
+
+}
+.ProductPrice{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif; 
+    text-align: center;
+    color: #AE0B0B;
+    margin-top: -5px;
+}
+.ProductBorderDetail{
+    border: 2px solid black;
+    width: 1292px;
+    height: 600px;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+    border-radius: 20px; 
+}
+.ProductImageDetail{
+    margin-left: 10px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;  
+}
+.ProductImageDetailBorder{
+    float: left;
+}
+.ProductTextDetail{
+    font-size: 38px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    text-align: left;
+    padding-left: 40px;
+}
+.ProductPriceDetail{
+    font-size: 70px;
+    font-family: 'Jua', sans-serif; 
+    text-align: center;
+    color: #AE0B0B;
+    margin-top: -5px;
+    position: relative;
+    left: 236px;
+    top: 50px;
+}
+.Addtocart{
+    font-size: 50px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    color: #ff007a;
+    position: relative;
+    left: 40px;
+    top: -44px;
+}
+.AddtocartBorder{
+    background-color: #d9d9d9;
+    width: 330px;
+    height: 77px;
+    position: absolute;
+    left: 802px;
+    top: 820px;
+    
+}
+.ProductDescription{
+    width: 681px;
+    overflow: auto;
+    font-family: 'Jacques Francois', serif;
+    font-size: 22px;
+}
+.ShoppingBasketText{
+    background-color:#d9d9d9;
+    font-size: 38px;
+    font-family: 'IM Fell Great Primer SC', serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.TableShoppingCart{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.TextTableHeaderShoppingCart{
+    font-size: 30px;
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-align: left;
+    padding: 10px;
+}
+.ImageTableShoppingCart{
+    width: 125px;
+    height: 70px;
+}
+.ImageTableShoppingCartBorder{
+    padding: 10px;
+}
+.ProductNameShoppingCart{
+    font-size: 25px;
+    font-family: 'IM Fell Great Primer SC', serif;
+    text-align: left;
+    padding: 10px;
+}
+.ProductPriceShoppingCart{
+    font-size: 25px;
+    font-family: 'Jua', sans-serif; 
+    text-align: center;
+    color: black;
+}
+.ProductQuantityShoppingCart{
+    width: 50px;
+    margin-left: 40%;
+}
+.ProductDeleteShoppingCart{
+    margin: 200px;
+    font-size: 25px;
+    font-family: 'IM Fell Great Primer SC', serif;
+}
+.ProductDeleteShoppingCartText{
+    background-color: #03C2FF;
+    width: 90px;
+    height: 40px;
+}
+.CheckOutShoppingBasket{
+    font-size: 50px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    color: black;
+    position: relative;
+    left: 40px;
+    top: -44px;
+}
+.CheckOutShoppingBasketBorder{
+    background-color: #d9d9d9;
+    width: 330px;
+    height: 77px;
+    position: absolute;
+    left: 802px;
+    top: 893px;     
+}
+.TotalShoppingBasket{
+    font-size: 36px;
+    font-family: 'IM Fell Great Primer SC', serif; 
+    color: black;
+    position: relative;
+    left: 40px;
+    top: -30px;    
+}
+.TotalShoppingBasketBorder{
+    background-color: #56ff3a;
+    width: 330px;
+    height: 77px;
+    position: absolute;
+    left: 802px;
+    top: 800px;
+}
+.TotalShoppingBasketPrice{
+    font-size: 36px;
+    font-family: 'Jua', sans-serif;
+    color: black;
+    position: relative;
+    left: 175px;
+    top: -100px; 
+}
